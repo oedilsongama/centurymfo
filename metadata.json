@@ -1,0 +1,8 @@
+{
+  "name": "Century MFO - Brain",
+  "description": "Operational Intelligence Dashboard for Century Multi Family Office featuring Century Brain AI assistant and specialized agents.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
